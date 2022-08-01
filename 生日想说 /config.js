@@ -30,7 +30,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我": "./imgs/songxinxin.jpeg",
+        "送给我": "./imgs/婚姻.jpeg",
         "心爱的姑娘": "./imgs/nothing.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
